@@ -11,6 +11,8 @@ Patient_Clean.PNG
 
 ![Healthcare-Data-Cleaning-task1](Departments_Power_Query.png)
 
+![Healthcare-Data-Cleaning-task1](/Departments_Power_Query.png.PNG)
+
 # Healthcare-Data-Cleaning-task1
 Healthcare data cleaning, profiling, validation and quality assessment using Microsoft Excel Power Query.
 Patients and Departments Data Cleaning Report
