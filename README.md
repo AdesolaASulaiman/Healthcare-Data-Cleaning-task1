@@ -2,6 +2,7 @@
 
 ### Patients Dataset
 ![Patients Power Query Cleaning](screenshots/Patients_Power_Query.png)
+Patient_Clean.PNG
 
 ### Departments Dataset
 ![Departments Power Query Cleaning](screenshots/Departments_Power_Query.png)
