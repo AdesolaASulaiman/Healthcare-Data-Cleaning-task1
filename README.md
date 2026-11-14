@@ -1,6 +1,17 @@
 ## Power Query Data Cleaning Evidence
 
 ### Patients Dataset
+![Patients Data Cleaning](Patients_Power_Query.png.PNG)
+
+### Departments Dataset
+![Departments Data Cleaning](Departments_Power_Query.png.PNG)
+
+
+
+
+
+
+### Patients Dataset
 ![Healthcare-Data-Cleaning-task1](/Patient_Clean.PNG)
 
 
